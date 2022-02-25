@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Musica Oxoniensis a collection of songs for one and two voices, with the thorough-bass / publish'd by Francis Smith and Peter de Walpergen ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60413</idno>
+            <idno type="STC">Wing S4029</idno>
+            <idno type="STC">ESTC R184290</idno>
+            <idno type="EEBO-CITATION">17254269</idno>
+            <idno type="OCLC">ocm 17254269</idno>
+            <idno type="VID">106297</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60413)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106297)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1101:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Musica Oxoniensis a collection of songs for one and two voices, with the thorough-bass / publish'd by Francis Smith and Peter de Walpergen ...</title>
+                  <author>Goodson, Richard, 1655-1718. Orpheus and Euridice. Selections.</author>
+                  <author>Weldon, John, 1676-1736. When charming Teraminta.</author>
+                  <author>De Walpergen, Peter.</author>
+                  <author>Smith, Francis, d. 1688.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leon. Lichfield ... and are to be sold by John Walsh ... and John Hare ... at his shop in ... London,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Four songs by Goodson and Weldon.</note>
+                  <note>Another issue in 1698 with slightly different imprint. Cf. Day and Murrie, Songbooks; Wing S4028.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Songs, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106297:1"/>
+            <pb facs="tcp:106297:1" rendition="simple:additions"/>
+            <p>
+               <add>MR 290. a. 65. 105.</add>
+            </p>
+            <p>
+               <hi>MUSICA OXONIENSIS.</hi>
+            </p>
+            <p>A COLLECTION OF SONGS: FOR One and Two Voices, WITH THE THOROUGH-BASS.</p>
+            <p>Publiſh'd by <hi>Francis Smith,</hi> and <hi>Peter de Walpergen</hi> Letter-Founder, by whom 'twas Cut on Steel, and Caſt, by the Directions of the former.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>OXFORD:</hi> Printed by <hi>Leon. Lichfield:</hi> And are to be Sold by <hi>John Walſh,</hi> Muſical Inſtrument-Maker in Ordinary to His Majeſty, at the <hi>Golden Harp</hi> and <hi>Hoboy</hi> in <hi>Catherine-ſtreet,</hi> near <hi>Somerſet-houſe</hi> in the <hi>Strand.</hi> And <hi>John Hare,</hi> Muſical Inſtrument-Maker, at the <hi>Golden Viol</hi> in St. <hi>Paul</hi>'s Church-yard, and at his Shop in <hi>Freeman</hi>'s Yard, <hi>Cornhil, LONDON,</hi> 1698.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:106297:2" rendition="simple:additions"/>
+            <pb facs="tcp:106297:2"/>
+            <head>TO THE <hi>Much Honoured and Ingenious</hi> Thomas Hinxman, <abbr>Eſq</abbr> OF <hi>TRINITY-COLLEGE</hi> in <hi>OXFORD.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE following Sheets, being the firſt of this Kind that have been Publiſh'd, We make bold to Recommend them to the World, by prefixing your Name to them: And we are ſatisfy'd, that however our Performance be Approv'd of, every Body will Applaud our Choice of a Patron. 'Tis under your Protection therefore that they venture abroad, and 'tis from your Approbation that they hope to meet with a kind Recep<g ref="char:EOLhyphen"/>tion: For <hi>Muſick</hi> can never be better Recommended, than by your Judgment, unleſs you pleaſe to add your excellent Perform<g ref="char:EOLhyphen"/>ance. But 'tis neither our Talent, nor Deſign to aim at Comple<g ref="char:EOLhyphen"/>ments, our only Meaning is, to Honour this Specimen with your Name; and 'tis upon that Preſumption that we hope to meet with either Encouragement, or at leaſt Excuſe from the reſt of the World, if we are but ſo happy as to have it from You.</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your moſt Obliged, and Moſt Humble Servants,
+<list>
+                     <item>
+                        <hi>F. SMITH,</hi>
+                     </item>
+                     <item>and <hi>P. de WALPERGEN.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:106297:3"/>
+            <head>TO ALL Lovers of Muſick.</head>
+            <p>THE Character with which all <hi>Muſick</hi> has been as yet Printed, not being Comparable to that which is generally Written; we have been induced to conſider of a new way, how any <hi>Muſick</hi> may be Printed, ſo as to be more Convenient, and more Beautiful than any yet Publiſh'd, if not equal to any in Manuſcript. Whether the Effect has anſwer'd the Deſign, we leave to the Cenſure of thoſe, who will, without Prejudice, com<g ref="char:EOLhyphen"/>pare this Specimen with any Printed <hi>Muſick;</hi> and we doubt not, but the Neatneſs of the Character, the Regularity and Evenneſs of the Lines, the natural Diviſion of the ſeveral Syllables to their proper Notes, <hi>&amp;c.</hi> will eaſily be ſeen; and the great Expence and Trouble, we have hitherto been at, be in ſome meaſure Rewarded by a can did Reception and Encouragement.</p>
+            <p>We intend not, by what has been ſaid, any Encomiums of our own Induſtry, any more than of the Science of <hi>Muſick</hi> it ſelf; ſince as this needs none, ſo we ſhould be glad, for the publick Good, to be exceeded in the other.</p>
+            <p>The <hi>Muſick</hi> is Compos'd by Good Maſters, and ſeveral Songs by the ſame Hands and Others, may be procur'd and Monthly Pub<g ref="char:EOLhyphen"/>liſh'd, if the Work meets with Encouragement.</p>
+            <p>Be pleas'd to take Notice, That the Binding of the Tails of the Notes, does not make them belong to One Syllable, except there be either a Tie over the Heads of thoſe Notes, or a Diviſion in the Syllable: and that this Character, or Mark, ♮ (which is uſed by the Italian Maſters, and is call'd a <hi>Natural,</hi>) is intended ſo as to reſtore the Note following to its natural and true ſound; as for Inſtance,</p>
+            <gap reason="music">
+               <desc>〈♫〉</desc>
+            </gap>
+            <p>If any Perſon has a valuable Collection of <hi>Muſick,</hi> and is willing to have it Printed with this Character, if it be ſent to our Printer, it ſhall be Carefully and Correctly done.</p>
+         </div>
+      </front>
+      <body>
+         <div type="song">
+            <pb facs="tcp:106297:3"/>
+            <div n="1" type="part">
+               <head>When Charming <hi>Teraminta.</hi> A <hi>SONG</hi> in Two Parts,</head>
+               <byline>
+                  <hi>Set by Mr.</hi> John Welldon.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">W</seg>Hen charming <hi>Tera—minta</hi> Si—ngs, Ev'ry new Air, ev'ry new Air, new Pa-ſſion brings; Ev'ry new Air, ev'ry new Air, new Pa—ſſion brings: And now—I Fear; Now I Tri—<g ref="char:EOLhyphen"/>umph,
+<pb n="2" facs="tcp:106297:4"/>
+now, now Deſ—pair: Now I Tri—umph, now now Deſ—pair. Her Face at laſt does all re—move, And my whole Breaſt con—ſents to Love, con—ſents to Lo—ve: My whole Breaſt con<g ref="char:EOLhyphen"/>ſents to Love, conſents to Lo—ve, con—ſents to Love.
+<pb n="3" facs="tcp:106297:4"/> The tre—mbling Zephirs rou—nd her play, And panting, panting on her Lips wou'd ſtay. The tre—mbling Zephirs round her play, rou—nd her play: Striving with di—vi—ded Bliſs, now wou'd
+<pb n="4" facs="tcp:106297:5"/>Listen, now wou'd Listen, now wou'd Kiſs, now wou'd Kiſs, now wou'd Kiſs, now, now, now, now, now, now wou'd Kiſs,<gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Till by Her Breath re—puls'd they fly, And in low pleaſing Mur—murs dye, And in low pleaſing Mur—murs dye. Nor do I
+<pb n="5" facs="tcp:106297:5"/>ask, that She wou'd give, By ſome new Note, the Pow'r to Live:<gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> I wou'd ex—pi—ring with the Sound, Dye on the Lips, Dye on the Lips, that gave the Wound, Dye on the Lips, that gave the Wound.</p>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:106297:3"/>
+               <p>
+                  <seg rend="decorInit">W</seg>Hen charming <hi>Te—ra—minta</hi> Si—ngs, When charming <hi>Te—ra—min—ta</hi> Si—ngs, Ev'ry new Ai—r, new Pa—ſſion brings; Ev'ry new Air, new Air, new Air, new Pa—ſſion brings. Now I Re—ſolve, Now I Tri—umph.
+<pb n="2" facs="tcp:106297:4"/>now, now, now, now Deſ—pair: Now I Tri—umph, now, now, now, now Deſ—pair. Her Face at laſt does all re—move, and my whole Breaſt con—ſents to Love, my whole Breaſt con—ſents to Love, my whole Breaſt con—ſents to Love, my whole Breaſt conſents, my whole Breaſt con-ſents to Love, con-ſents to Love.
+<pb n="3" facs="tcp:106297:4"/>The tre—mbling Zephirs rou—nd her<gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> play, The tre—mbling Zephirs round her play, and panting,—panting, panting on her Lips wou'd ſta—y, rou—nd her play: Striving with di—vi—ded Bliſs,
+<pb n="4" facs="tcp:106297:5"/>now wou'd Kiſs, now wou'd Kiſs, now wou'd Listen, now wou'd Kiſs, now wou'd Kiſs, now, now, now, now, now, now, now, now, now, now, now wou'd Kiſs, Till by Her Breath re-puls'd they fly, And in low pleaſing Murmurs dy—e, And in low pleaſing Murmurs dye.
+<pb n="5" facs="tcp:106297:5"/>I wou'd ex—pi—ring with the Sound, wou'd ex—pi—ring with the Sound, Dye on the Lips, Dye on the Lips, Dye on the Lips, the Lips, that gave the Wound.</p>
+            </div>
+         </div>
+         <div type="song">
+            <pb n="6" facs="tcp:106297:6"/>
+            <head>ORPHEUS'S SONG to the Satyrs, in the Mask of ORPHEUS and EURIDICE: Perform'd at the Boarding-School at <hi>Beſſelſleigh,</hi> in <hi>October</hi> 1697.</head>
+            <head type="sub">Let me, Ye Satyrs, <hi>&amp;c.</hi>
+            </head>
+            <byline>Set by Mr. <hi>Richard Goodſon.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <stage>Flute.</stage>
+Let me, ye Satyrs, let me know, let me know, why you thus, why you thus diſtur—b my Peace? Let me, ye Satyrs, let me know,
+<pb n="7" facs="tcp:106297:6"/>
+let me know, why you thus, why you thus diſ—tur—b my Pea—ce? Let me, let me, ye Satyrs, let me know why, let me know why you thu—s diſtur—b my Peace? why you thus diſtur—b my Peace? Have I not yet, have I not yet, have I not yet
+<pb n="8" facs="tcp:106297:7"/>
+Ills enough, have I not yet, have I not yet Ills enough, that will not let me live at Eaſe? Have I not yet, have I not yet, have I not, have I not, have I not yet, have I not, have I not Ills enough, that will not let me, will not let me live at Eaſe? that will not let me, will not let me live at Eaſe? that will not, will not let me
+<pb n="9" facs="tcp:106297:7"/>
+live at Eaſe? Have I not yet, have I not yet, have I not, have I not, have I not yet, have I not, have I not Ills enough, that will not let me, will not let me live at Eaſe? that will not let me, will not let me live at Eaſe? that will not, will not let me live at Eaſe?</p>
+         </div>
+         <div type="song">
+            <pb n="10" facs="tcp:106297:8"/>
+            <head>From ſhining Courts, <hi>&amp;c.</hi>
+            </head>
+            <byline>
+               <hi>Set by Mr.</hi> R. Goodſon.</byline>
+            <p>Orpheus's <hi>SONG to the Woods, in the Mask of</hi> Orpheus <hi>and</hi> Euridice.</p>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">F</seg>Rom ſhi—ning Courts there's none, none, there's none, none, there's none, none, there's none, no—ne retreat; or fly—, or fly—, or fly the Glo—ries of the Great: Except the Wiſe, except the Wi—ſe, and the Unfortunate: Except the Wiſe, except the Wi—ſe, and the Unfortunate. <hi>I,</hi> NO ye Groves do hum—b—ly ſe, I, O ye
+<pb n="11" facs="tcp:106297:8"/>
+Groves, I, Oye Groves do hum—b—ly, hum—b—ly <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, To bid the idle, idle, idle, to bid the<g ref="char:punc">▪</g> idle World a—dieu, a—dieu, a—dieu, adieu, a—dieu—, to bid the idle World a-dieu; And here diſ—cloſe my very Soul, diſ—cloſe my very, very Soul to you, my very, very, very Soul, my very, very, very, very Soul to you.</p>
+         </div>
+         <div type="song">
+            <pb n="12" facs="tcp:106297:9"/>
+            <head>I come to the Waters, <hi>&amp;c.</hi>
+            </head>
+            <byline>Set by Mr. <hi>R. Goodſon.</hi>
+            </byline>
+            <head type="sub">
+               <hi>CUPID'S SONG in the Mask of</hi> Orpheus <hi>and</hi> Euridice.</head>
+            <lg n="1">
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <l>
+                  <hi>
+                     <seg rend="decorInit">I</seg>
+                  </hi> Come to the Waters,</l>
+               <l>the Woods and the Shades,</l>
+               <l>where the Swains and the Nymphs do all gang.</l>
+               <l>With my Shafts that will go,</l>
+               <l>very ſwift from my Bow,</l>
+               <l>and a String that ſhall merrily cry Twang.</l>
+               <l>With my Shafts that will go,</l>
+               <l>very ſwift from my Bow,</l>
+               <l>and a String that ſhall merrily, ſhall merrily, ſhall merrily, ſhall merrily, ſhall merrily cry Twang.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>An obſtinate Swain</l>
+               <l>Shall receive twice the Pain,</l>
+               <l>And my Shaft ſhall ſtick up to the Fang:</l>
+               <l>But who e're courts the Fight</l>
+               <l>Shall find his Wounds light,</l>
+               <l>And a String that ſhall merrily cry Twang.</l>
+            </lg>
+            <pb facs="tcp:106297:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
